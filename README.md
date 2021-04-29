@@ -8,11 +8,11 @@ star_maker filename: pystar_1.py
 
 Plugin to create a star planar mesh from the add menu in Blender.
 
-## TO USE
+### TO USE
 
 File > User Preferences > Add-ons > search by "star" (or use mesh filter)
 
-## CONTROLS
+### CONTROLS
 
 Outer radius: sets the outer radius of the star (how far the points are from the center).
 
