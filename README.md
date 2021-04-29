@@ -1,8 +1,8 @@
 # Star-maker
 
-Hello! This was simply a short plugin project for me, as I want to have a deeper grasp of Blender scripting and graphics programming. Running this script in Blender will allow you to create a flat star-shaped object at the location of the 3D cursor, which can then be further customized in the toolbar. Enjoy!
-
 ![Demo](https://user-images.githubusercontent.com/42983161/116540228-e175b000-a8b7-11eb-8dbf-68c635cb7cc5.png)
+
+Hello! This was simply a short plugin project for me, as I want to have a deeper grasp of Blender scripting and graphics programming. Running this script in Blender will allow you to create a flat star-shaped object at the location of the 3D cursor, which can then be further customized in the toolbar. Enjoy!
 
 star_maker filename: pystar_1.py
 
