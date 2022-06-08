@@ -13,6 +13,7 @@ bl_info = \
         "category" : "Add Mesh",
     }
 #wikibooks link is where I learned many of the scripting techniques below.
+#any original code written by Kyle Fohrman while at the University of Florida
 
 import math
 import bpy
