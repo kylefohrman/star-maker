@@ -1,7 +1,7 @@
 bl_info = \
     {
         "name" : "Star Plane Maker",
-        "author" : "J Random Hacker <jrhacker@example.com>",
+        "author" : "Kyle Fohrman <kyle@fohrman.org>",
         "version" : (1, 0, 0),
         "blender" : (2, 5, 7),
         "location" : "View 3D > Edit Mode > Tool Shelf",
